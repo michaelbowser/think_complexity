@@ -1,0 +1,11 @@
+name: ThinkComplexity
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scipy
+  - jupyter
+  - networkx

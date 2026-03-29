@@ -1,0 +1,4 @@
+patient_id,age,biomarker,score,diagnosis
+001,72,amyloid,14.2,alzheimers
+002,68,tau,9.8,alzheimers
+005,70,amyloid,13.7,control
